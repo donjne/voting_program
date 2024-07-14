@@ -19,7 +19,7 @@ Ensure you have the following tools installed:
 Clone the repository containing the `hello_anchor` program:
 
 ```shell
-git clone https://github.com/donjne/whitelist_program.git
+git clone https://github.com/donjne/voting_program.git
 cd hello_anchor
 ```
 
