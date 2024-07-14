@@ -92,14 +92,17 @@ Accounts
 Updates the stage of the election.
 
 ```rust
-Copy code
 pub fn update_election_stage(ctx: Context<ChangeStage>, new_stage: ElectionStage) -> Result<()>
-Arguments:
-new_stage: New stage of the election.
-Accounts:
-election_data: Account storing election data.
-signer: Initiator of the election.
 ```
+
+Arguments:
+
+- `new_stage`: New stage of the election.
+
+Accounts:
+
+- `election_data`: Account storing election data.
+- `signer`: Initiator of the election.
 
 ### vote
 
