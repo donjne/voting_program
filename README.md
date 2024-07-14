@@ -16,11 +16,11 @@ Ensure you have the following tools installed:
 
 ### Clone the Repository
 
-Clone the repository containing the `hello_anchor` program:
+Clone the repository containing the `dao_voting` program:
 
 ```shell
 git clone https://github.com/donjne/voting_program.git
-cd hello_anchor
+cd dao_voting
 ```
 
 ### Build the Project
